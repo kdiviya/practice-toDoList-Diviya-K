@@ -1,0 +1,38 @@
+
+h1 {
+
+  font-family: 'Playfair Display', serif;
+  font-size: 70px;
+  font-weight: bolder;
+  text-align: center;
+  color: rgb(40, 8, 127);
+} 
+
+
+
+.todolist, h4{
+
+  font-family: 'Playfair Display', serif;
+  font-weight: bold;
+  font-size: 35px;
+  color: rgb(40, 8, 127);
+  margin-bottom: 5px;
+}
+
+ul {
+
+  list-style-type: square;
+  font-family: 'Playfair Dispaly', serif;
+  font-size: large;
+  color: rgb(40, 8, 127);
+}
+
+li:hover { 
+  background-color: royalblue;
+}
+
+h4:hover {
+  background-color: royalblue;
+}
+
+
